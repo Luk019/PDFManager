@@ -1,0 +1,21 @@
+translations = {
+    "merge_pdf": "Merge PDFs",
+    "split_pdf": "Split PDF",
+    "choose_files_to_merge": "Choose PDF files to merge:",
+    "add_files": "Add files",
+    "remove_selected": "Remove selected",
+    "move_up": "Move up",
+    "move_down": "Move down",
+    "merge": "Merge",
+    "choose_file_to_split": "Choose PDF file to split:",
+    "page_range": "Enter page range (e.g. 1-3 or 8):",
+    "save_remainder": "Save remaining pages as a separate file",
+    "split": "Split",
+    "success": "Success",
+    "merged_success": "PDF files have been merged!",
+    "split_success": "PDF file has been split!",
+    "no_files": "No files selected for merging.",
+    "no_file": "No file selected for splitting.",
+    "invalid_range": "Invalid page range provided.",
+    "out_of_range": "Page range is out of document range."
+}

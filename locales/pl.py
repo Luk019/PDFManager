@@ -1,0 +1,21 @@
+translations = {
+    "merge_pdf": "Połącz PDFy",
+    "split_pdf": "Rozdziel PDF",
+    "choose_files_to_merge": "Wybierz pliki PDF do połączenia:",
+    "add_files": "Dodaj pliki",
+    "remove_selected": "Usuń wybrane",
+    "move_up": "Góra",
+    "move_down": "Dół",
+    "merge": "Połącz",
+    "choose_file_to_split": "Wybierz plik PDF do rozdzielenia:",
+    "page_range": "Podaj zakres stron (np. 1-3 lub 8):",
+    "save_remainder": "Zapisz pozostałe strony jako osobny plik",
+    "split": "Rozdziel",
+    "success": "Sukces",
+    "merged_success": "Pliki PDF zostały połączone!",
+    "split_success": "Plik PDF został rozdzielony!",
+    "no_files": "Nie wybrano plików do połączenia.",
+    "no_file": "Nie wybrano pliku do rozdzielenia.",
+    "invalid_range": "Podany zakres stron jest niepoprawny.",
+    "out_of_range": "Podany zakres stron jest poza zakresem dokumentu."
+}
