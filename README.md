@@ -32,3 +32,5 @@ Select the PDF file to be separated.
 Enter the range of pages you want to separate (e.g. 1-3 or a single page e.g. 8).
 Check the "Save remaining pages as a separate file" option if you want to save the rest of the pages as a separate PDF file.
 Click "Split" to create a new PDF file containing the indicated pages. If you have checked the option to save the remaining pages, they will be saved as a separate PDF file.
+
+Flags from: https://flagpedia.net
