@@ -2,13 +2,16 @@
 Program do łączenia i rozdzielania pdfów.
 
 Instrukcje użycia
+
 Uruchom program.
 W interfejsie graficznym masz dwie zakładki:
+
 Połącz PDFy:
 Dodaj pliki PDF, które chcesz połączyć.
 Usuń wybrane pliki, jeśli popełniłeś błąd.
 Użyj przycisków "Góra" i "Dół", aby zmienić kolejność plików.
 Kliknij "Połącz", aby połączyć pliki PDF.
+
 Rozdziel PDF:
 Wybierz plik PDF do rozdzielenia.
 Podaj zakres stron, które chcesz rozdzielić (np. 1-3 lub pojedynczą stronę np. 8).
@@ -18,6 +21,7 @@ Kliknij "Rozdziel", aby utworzyć nowy plik PDF zawierający wskazane strony. Je
 Program for combining and separating pdf.
 
 Instructions for use
+
 Run the program.
 In the graphical interface, you have two tabs:
 
